@@ -72,6 +72,12 @@ src/
 
 **Path Aliases**: Use `@/*` for src imports, `@/scene/*`, `@/ui/*`, `@/types/*` for specific directories.
 
+## Documentation
+
+- `documents/README.md` - Project overview and concept documentation
+- `documents/development-plan.md` - Detailed development phases and milestones
+- `documents/architecture.md` - Technical architecture and system design
+
 ## Project Status
 
-Vite + TypeScript + Three.js environment is now set up and ready for development. Basic project structure created with proper TypeScript configuration and path mapping.
+Vite + TypeScript + Three.js environment is set up and ready for development. Basic project structure created with proper TypeScript configuration and path mapping. Development documentation organized in documents/ folder.
